@@ -164,7 +164,8 @@ fun ShowButton(text: String, color: Color, viewModel: CalculatorViewModel) {
     ) {
         Text(
             text = text,
-            fontSize = 30.sp
+            fontSize = 30.sp,
+            color = Color.White
         )
     }
 }
