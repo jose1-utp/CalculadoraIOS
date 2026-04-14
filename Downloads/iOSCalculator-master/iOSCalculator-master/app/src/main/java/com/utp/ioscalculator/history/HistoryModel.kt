@@ -13,8 +13,5 @@ class HistoryModel {
             history.add(operation)
         }
 
-        fun clear() {
-            history.clear()
-        }
     }
 }
